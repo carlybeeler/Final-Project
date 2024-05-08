@@ -11,9 +11,11 @@ This repository is for the course project of MGT 4250 (Data Visualization and St
 
 
 ## Section 2: Data Description and Upload
-- **Data Acquisition Instructions**: Our data can be downloaded from the website [Kaggle](https://www.kaggle.com/), linked here for you. Once on the website you can log in, and then access the data. Look up in the search bar "Gender Wage Gap in the USA (1973-2022)."
-- ??  Explain the data types and descriptions of the columnsused in visualizations.
+- **Data Acquisition Instructions**: Our data can be downloaded from the website [Kaggle](https://www.kaggle.com/), linked here for you. Once on the website you can log in, and then access the data. Look up in the search bar "Gender Wage Gap in the USA (1973-2022)." This is the direct link to the website https://www.kaggle.com/datasets/asaniczka/gender-wage-gap-in-the-usa-1973-2022. 
+
+- Explain the data types and descriptions of the columnsused in visualizations.
 - **Data used**: [gender_wage_gap.csv](https://github.com/carlybeeler/Final-Project/files/15223189/gender_wage_gap.csv)
+This dataset has many numerical variables including year (int), men_median (median hourly wages of men, float), men_avergae (average hourly wages of men, float), women_median (median hourly wages of women, float), women_average (average hourly wages of women, float), white_men_median (median hourly wages of white men, float), white_men_avergae (average hourly wages of white men, float), black_men_median (median hourly wages of black men, float), black_men_avergae (average hourly wages of black men, float), hispanic_men_avergae etcetera. There were categories for people of different racial background (black, white, hispanic) and gender (men and women). Most values were float numbers but there was one integar. 
 
 
 ## Section 3: Interpreting Visualizations
